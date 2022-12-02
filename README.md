@@ -13,7 +13,7 @@ A next generation transportation network model that spans across a proposed area
   
 
 ## Link to Project
-[https://docs.google.com/presentation/d/1o60qfK6kDbCBvfq72xUjKqqixpX_FCKoG2x5_8yzY-A/edit?usp=drivesdk](live_link)
+[Live Link](https://docs.google.com/presentation/d/1o60qfK6kDbCBvfq72xUjKqqixpX_FCKoG2x5_8yzY-A/edit?usp=drivesdk)
 
 ## How it Works ?
 Explaining the working of project  
