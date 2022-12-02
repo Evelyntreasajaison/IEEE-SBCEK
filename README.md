@@ -1,24 +1,26 @@
 ![image](./assets/banner.png)
 
 
-# {Project Name} - MAGNATHON
-Tell us about your project here
+# {NEXT GENERATION TRANSPORTSTION NETWORK MODEL} - MAGNATHON
+A next generation transportation network model that spans across a proposed area of a city that efficiently connects to industries , educational institutions and businesses . The model includes Renewable EV Charging facilities across various points for multiple users . The main aim of this model is to reduce travel time , energy consumption, manage traffic and ease of export and import . 
+
 
 ## Team Members
-[1.Team Member 1](enter_github_profile_url)   
-[2.Team Member 2](enter_github_profile_url)   
-[3.Team Member 3](enter_github_profile_url)   
-[4.Team Member 4](enter_github_profile_url)   
+[1.MOHAMMAD NIYAZ ](https://github.com/niyasrafael)   
+[2.SANGEETHA V ](https://github.com/sangeetha554)   
+[3.EVELYN TREASA JAISON ](https://github.com/Evelyntreasajaison)   
+[4.GRACE MARY K S ](https://github.com/graceMaryks)   
+  
 
 ## Link to Project
-[Embed the live link of project](live_link)
+[https://docs.google.com/presentation/d/1o60qfK6kDbCBvfq72xUjKqqixpX_FCKoG2x5_8yzY-A/edit?usp=drivesdk](live_link)
 
 ## How it Works ?
 Explaining the working of project  
 Embed video of project demo
 
 ## Technologies used
-List out tech stacks you have used
+Electric mobility
 
 ## How to configure
 Instructions for setting up project
